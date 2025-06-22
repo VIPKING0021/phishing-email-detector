@@ -16,10 +16,10 @@ This is a machine learning-based phishing email detector built using Python. It 
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 👨‍💻 Author
 
 **Vipul Sharma**  
-3rd Year Electrical Engineering Student | Aspiring Cybersecurity Intern  
-[GitHub](https://github.com/VIPKING0021) • [LinkedIn](https://linkedin.com/vipulsha)
+3rd Year Electrical Engineering Student | Aspiring Cybersecurity Intern
+• [LinkedIn](https://linkedin.com/vipulsha)
