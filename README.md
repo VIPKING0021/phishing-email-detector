@@ -11,3 +11,8 @@ This is a machine learning-based phishing email detector built using Python. It 
 - `phishing_detector.py` - Main detection script
 - `trained_model.pkl` - Pre-trained model
 - `dataset.csv` - Dataset used for training/testing
+
+✅ How to Install Requirements
+
+```bash
+pip install -r requirements.txt
